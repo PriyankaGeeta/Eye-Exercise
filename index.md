@@ -9,7 +9,7 @@ You will see 2 eyes on your screen. You will have to move mouse pointer in rando
 
 ### How to Run:
 
-You can download the ZIP file by clicking the CODE from the  [Eye-Exercise Github Repository] https://github.com/PriyankaGeeta/Eye-Exercise. Double click on the Index.html file and run that in your browser.
+You can download the ZIP file by clicking the CODE from the  [Eye-Exercise Github Repository](https://github.com/PriyankaGeeta/Eye-Exercise). Double click on the Index.html file and run that in your browser.
 
 
 ### Roadmap of future improvements: 
