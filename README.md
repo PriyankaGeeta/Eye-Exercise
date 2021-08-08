@@ -1,4 +1,5 @@
 # Eye-Exercise
+<img src= "Eye.PNG" width='300' />
 
 ## This code is about Eye exercise.
 
