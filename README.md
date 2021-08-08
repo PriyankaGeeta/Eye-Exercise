@@ -7,7 +7,7 @@ Here's how to interact with the interface:
 You will see 2 eyes on your screen. You will have to move mouse pointer in random direction. The Eyeball will move wherever the mouse pointer moves.
 
 ## How to Run: 
-Download the ZIP file by clicking the CODE from the Github repository https://github.com/PriyankaGeeta/Eye-Exercise. Double click on the Index.html file and run that in your browser.
+Download the ZIP file by clicking the CODE from the [Eye-Exercise Github Repository](https://github.com/PriyankaGeeta/Eye-Exercise). Double click on the Index.html file and run that in your browser.
 
 ## Roadmap of future improvements: 
 I am planning to add a blinking eyelid when the mouse pointer is outside the blue zone, the eyelid will close.
